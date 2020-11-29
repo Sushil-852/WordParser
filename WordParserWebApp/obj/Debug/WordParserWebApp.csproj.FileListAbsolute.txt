@@ -1,0 +1,6 @@
+F:\Work\WordParser\WordParserAPI\WordParserWebApp\bin\WordParserWebApp.dll.config
+F:\Work\WordParser\WordParserAPI\WordParserWebApp\bin\WordParserWebApp.dll
+F:\Work\WordParser\WordParserAPI\WordParserWebApp\bin\WordParserWebApp.pdb
+F:\Work\WordParser\WordParserAPI\WordParserWebApp\obj\Debug\WordParserWebApp.csprojResolveAssemblyReference.cache
+F:\Work\WordParser\WordParserAPI\WordParserWebApp\obj\Debug\WordParserWebApp.dll
+F:\Work\WordParser\WordParserAPI\WordParserWebApp\obj\Debug\WordParserWebApp.pdb
